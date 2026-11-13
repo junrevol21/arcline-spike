@@ -1,0 +1,5 @@
+package id.arcline.gps_bg
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
